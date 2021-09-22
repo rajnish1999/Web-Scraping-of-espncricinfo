@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "ManOfTheMatch": "node extractPlayerOfMatch.js",
+    "HighestWicketTaker": "node extractHighestWicketTaker.js",
+    "PlayerDOB": "node extractDobOfPlayers.js",
+    "BallByBallCommentary": "node extractBallByBallCommentary.js"
   },
   "author": "",
   "license": "ISC",
